@@ -17,6 +17,9 @@ A aplicação consiste em um dashboard de vendas que coleta dados de vendedores 
 
 ![Web 2](frontend/src/assets/Desktop_2.png)
 
+## Estrutura de camadas
+![Estrutura de camadas](frontend/src/assets/layers_structure.png)
+
 ## Modelo conceitual
 ![Modelo Conceitual](frontend/src/assets/UML.png)
 
